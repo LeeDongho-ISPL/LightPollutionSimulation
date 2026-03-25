@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-부산광역시%201365%20디지털트윈-blue)](https://1365twin.busan.kr)
 [![Service](https://img.shields.io/badge/Service-도심%20인공조명%20생활안전-orange)](https://1365twin.busan.kr/twin/service/light)
 [![Status](https://img.shields.io/badge/Status-실시간%20운영중-brightgreen)](https://1365twin.busan.kr/twin/map)
-[![Developer](https://img.shields.io/badge/Developer-동아대학교%20ISPL-purple)](https://github.com/LeeDongho-ISPL)
+[![Developer](https://img.shields.io/badge/Developer-동아대학교-purple)](https://github.com/LeeDongho-ISPL)
 
 ---
 
